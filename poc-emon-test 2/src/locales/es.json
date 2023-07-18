@@ -1,0 +1,12 @@
+{
+  "welcome": "¡ Bienvenido !",
+  "search": "search",
+  "noResult": "Ningún resultado encontrado",
+  "loading": "cargando..",
+  "click": "¡ Haz click en mi !",
+  "back": "regresa",
+  "oops": "¡ Oops !",
+  "unexpected": "Lo sentimos, se ha producido un error inesperado.",
+  "query": "tu consulta aquí",
+  "error": "ERROR"
+}

@@ -1,0 +1,12 @@
+{
+  "welcome": "Welcome !",
+  "search": "search",
+  "noResult": "No result found",
+  "loading": "loading..",
+  "click": "click me !",
+  "back": "go back !",
+  "oops": "Oops !",
+  "unexpected": "Sorry, an unexpected error has occurred.",
+  "query": "you're query here",
+  "error": "ERROR"
+}
